@@ -1,0 +1,16 @@
+{
+  "name": "miniprogram-jsx-todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "build": "mpjsx",
+    "watch": "mpjsx -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "miniprogram-jsx": "^0.1.3"
+  }
+}
